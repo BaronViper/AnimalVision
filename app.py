@@ -37,7 +37,7 @@ def predict(img) -> Tuple[Dict, float]:
 
   return pred_labels_and_probs, pred_time
 
-title = "Animal Classifier"
+title = "Animal Classifier 🦁🐘🐊"
 description = "An EfficientNetB2 feature extractor"
 
 
@@ -49,7 +49,6 @@ demo = gr.Interface(fn=predict,
                              gr.Number(label="Prediction time (s)")],
                     examples=example_list,
                     title=title,
-                    description=description,
-                    article=article)
+                    description=description)
 
 demo.launch()
