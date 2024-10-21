@@ -26,6 +26,8 @@ The model was trained for 5 epochs. Below are the final training and testing per
 ## How to Use on Hugging Face:
 Simply access the web interface via [Hugging Face Spaces](https://huggingface.co/spaces/Baron98/AnimalVision) and upload an image of an animal!
 
+![Web UI](web_ui.png)
+
 ## Dataset
 
 The model was fine-tuned on the Kaggle dataset from [Anthony Therrien](https://www.kaggle.com/datasets/anthonytherrien/image-classification-64-classes-anim). This dataset contains a variety of animal species with labeled images, making it ideal for multi-class classification tasks.
