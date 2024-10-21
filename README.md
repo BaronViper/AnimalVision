@@ -30,7 +30,7 @@ Simply access the web interface via [Hugging Face Spaces](https://huggingface.co
 
 ## Dataset
 
-The model was fine-tuned on the Kaggle dataset from [Anthony Therrien](https://www.kaggle.com/datasets/anthonytherrien/image-classification-64-classes-anim). This dataset contains a variety of animal species with labeled images, making it ideal for multi-class classification tasks.
+The model was fine-tuned on the Kaggle dataset from [Anthony Therrien](https://www.kaggle.com/anthonytherrien). This dataset contains a variety of animal species with labeled images, making it ideal for multi-class classification tasks.
 
 ## Acknowledgements
 
